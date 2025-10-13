@@ -1,0 +1,13 @@
+Git & GitHub Hands-on Workshop — index
+
+This repository has been prepared for an instructor-led Git workshop.
+
+Primary workshop files are under `tasks/` as Markdown files:
+
+- `tasks/task-1.md` — Git Basics
+- `tasks/task-2.md` — Branching, Merging & Collaboration
+- `tasks/task-3.md` — Advanced Git Operations
+- `tasks/task-4.md` — Final Team Challenge
+
+Original text files have been kept as backups with `.bak` extensions (e.g. `task-1.txt.bak`).
+
