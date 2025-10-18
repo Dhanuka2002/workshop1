@@ -1,1 +1,11 @@
 hello
+
+📖 About Me
+
+Hi! I'm Dumeesha Tharukee, a passionate Trainee Software Engineer from Sri Lanka 🇱🇰. I love building web applications, exploring new technologies, and improving my coding skills every day! 🚀
+
+💻 Role: Trainee Software Engineer
+📍 Location: Sri Lanka 🇱🇰
+🎓 Currently Learning: NDT - University of Moratuwa
+🛠️ Experience: Developing web and software projects using React.js, Java, Node.js, and Java Spring Boot.
+🎉 Fun Fact: I won Top 10 UI/UX Design Exhibition “Warna Pixel” at NDT University of Moratuwa! 🎨🏆 
